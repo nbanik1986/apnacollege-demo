@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is git demo
+This is my first git repository
+author:Nilanjan Banik
